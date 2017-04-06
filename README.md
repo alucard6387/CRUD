@@ -7,4 +7,4 @@
 *	Mysql. Имя базы test, с логином и паролем root
 *	Frontend: Spring MVC
 
-[Скрипт для создания и наполнения тестовыми данными базы данных](https://github.com/alucard6387/CRUD/db_script/db_script.sql)
+[Скрипт для создания и наполнения тестовыми данными базы данных](https://github.com/alucard6387/CRUD/blob/master/db_script/db_script.sql)
